@@ -6,19 +6,17 @@ description: "Courses taught, teaching experience, and instructional materials."
 
 ## Instructor
 
-**MA 101 — Example Course**  
-Your University, Fall 20XX
+**MA 341 — Calculus III**  
+NC State University, Spring 2026
 
 - Designed and delivered lectures and assessments.
 - Maintained course notes and supporting materials.
-- Held office hours and provided student feedback.
 
 ## Teaching assistant
 
-**MA 201 — Another Example Course**  
-Your University, Spring 20XX
+**MA 341 — Calculus III**  
+NC State University, Fall 2022, Spring 2025, Fall 2025, Spring 2026
 
 - Led problem sessions and supported course instruction.
 - Graded assignments and assisted students during office hours.
 
-Replace these examples with your own courses. Links to syllabi, lecture notes, or course pages can be added directly in Markdown.
