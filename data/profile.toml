@@ -5,41 +5,39 @@
 # Content pages remain independent Markdown files inside content/.
 
 name = "Sam Thornton"
-title = "PhD Student in Applied Mathematics"
-institution = "Your University"
+title = "PhD Student in Mathematics"
+institution = "NC State University"
 department = "Department of Mathematics"
-email = "you@university.edu"
-location = "City, State"
-avatar = "images/avatar.svg"
-avatar_alt = "Profile portrait"
+#email = "srthorn3@ncsu.edu"
+location = "Raleigh, NC"
 
 # Keep this short: usually 2-4 sentences.
-about = "I am a graduate student interested in applied mathematics and scientific computing. My work focuses on developing scalable computational methods for challenging problems in science and engineering."
+about = "I am a mathematician interested in applying my mathematical knowledge and skills to science and engineering challenges.
 
 education = [
-  "Ph.D. in Applied Mathematics, Your University (expected 20XX)",
-  "M.S. in Mathematics, Previous University (20XX)"
+  "Ph.D. in Mathematics, NC State University (expected 2027)",
+  "M.S. in Applied Mathematics, NC State University (2024)",
+  "B.S. in Mathematics, NC State University (2022)",
+  "B.S. in Physics, NC State University (2022)"
 ]
 
 research_interests = [
-  "Numerical linear algebra",
-  "Scientific computing",
-  "Optimization",
-  "Randomized algorithms"
+  "Mathematical Modeling",
+  "Machine Learning Methods"
 ]
 
 # PDF shown as a navigation tab. Replace static/files/cv.pdf with your CV.
-cv = "files/cv.pdf"
-cv_label = "CV"
+#cv = "files/cv.pdf"
+#cv_label = "CV"
 
 [site]
-description = "Academic website of Your Name, PhD student in applied mathematics."
-keywords = ["applied mathematics", "scientific computing", "numerical linear algebra"]
+description = "Academic website of Sam Thornton, PhD student in mathematics."
+keywords = ["applied mathematics", "mathematical modeling", "machine learning methods"]
 default_theme = "system" # system, light, or dark
 enable_search = true
 enable_back_to_top = true
 show_selected_publications = true
-selected_publications_count = 3
+selected_publications_count = 1
 show_home_attribution = true
 attribution_name = "Harshit Bhatt"
 attribution_url = "https://bhattharshit.github.io/"
