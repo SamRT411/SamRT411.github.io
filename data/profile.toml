@@ -12,7 +12,7 @@ department = "Department of Mathematics"
 location = "Raleigh, NC"
 
 # Keep this short: usually 2-4 sentences.
-about = "I am a mathematician interested in applying my mathematical knowledge and skills to science and engineering challenges.
+about = "I am a mathematician interested in applying my mathematical knowledge and skills to science and engineering challenges."
 
 education = [
   "Ph.D. in Mathematics, NC State University (expected 2027)",
